@@ -13,3 +13,4 @@ Tool versions: Ruff 0.17.6, Pylint 4.1.4, pytest 9.2.0.
 ## Pairing reflection (3–4 sentences, write in your own words)
 
 <!-- Each partner: one or two sentences. What was easier or harder with a driver and a navigator? -->
+Working together made reviewing the refactoring changes and spotting edge cases much easier than working alone. Untangling the legacy logic and fixing all lint and test issues took the most effort, especially keeping the code clean and clear. Reviewing each other's work helped us catch mistakes early and feel more confident in the final results.
