@@ -1,5 +1,0 @@
-b9dd15d TDD Refactor: add type hints and extra test case
-4fd7445 TDD Green: implement add and pass test_add
-1ea3967 TDD Red: add failing test_add
-09c7e55 Merge pull request #1 from shahdalaa2/week5-quality
-52670d2 Add project title to README
